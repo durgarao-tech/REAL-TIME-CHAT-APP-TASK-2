@@ -46,5 +46,5 @@ Conclusion
 This real-time chat application demonstrates the power of combining HTML, CSS, and JavaScript to create dynamic and interactive web applications. It showcases essential front-end development skills and lays the groundwork for more advanced projects. Building this application not only provided hands-on experience with core web technologies but also deepened my understanding of real-time communication, making it a valuable addition to my portfolio.
 
 # OUTPUT OF THE TASK-2#
-
+https://github.com/durgarao-tech/REAL-TIME-CHAT-APP-TASK-2.git
 
